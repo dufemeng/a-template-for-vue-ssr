@@ -1,0 +1,10 @@
+{
+  "name": "a-template-for-vue-ssr",
+  "version": "1.0.0",
+  "description": "a template for vue ssr",
+  "author": "li meng",
+  "license": "MIT",
+  "devDependencies": {
+    "vue-cli": "^2.9.2"
+  }
+}
